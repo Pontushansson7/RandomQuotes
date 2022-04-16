@@ -1,0 +1,46 @@
+{
+    "packages": [
+        {
+            "name": "edwinfadilah/random-quotes",
+            "version": "1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/edwinfadilah/random-quotes.git",
+                "reference": "1015330b9265da9ae7f873c9fd5eb735355658b9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/edwinfadilah/random-quotes/zipball/1015330b9265da9ae7f873c9fd5eb735355658b9",
+                "reference": "1015330b9265da9ae7f873c9fd5eb735355658b9",
+                "shasum": ""
+            },
+            "time": "2019-09-02T06:12:06+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "RandomQuotes\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Edwin Fadilah",
+                    "email": "edwinfadilah@gmail.com"
+                }
+            ],
+            "description": "This library (originally taken from rakibtg/php-random-quotes-generator) will generate a random quote for you. This package is for my exercise purpose only.",
+            "support": {
+                "issues": "https://github.com/edwinfadilah/random-quotes/issues",
+                "source": "https://github.com/edwinfadilah/random-quotes/tree/1.0.0"
+            },
+            "install-path": "../edwinfadilah/random-quotes"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
