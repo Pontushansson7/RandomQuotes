@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'bf747cdbf41a2c035d0bc6d2e59766ca7f887912',
+        'reference' => '69168d4c2a3c87d7ddb54d448170211278881322',
         'name' => '__root__',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'bf747cdbf41a2c035d0bc6d2e59766ca7f887912',
+            'reference' => '69168d4c2a3c87d7ddb54d448170211278881322',
             'dev_requirement' => false,
         ),
         'edwinfadilah/random-quotes' => array(
