@@ -6,8 +6,6 @@ $randomQuotes = new \RandomQuotes\Quote();
 
 $quotes = $randomQuotes->generate();
 
-foreach($quotes as $quote) {
-    echo $quote;
-}
+echo $quotes['author'] . ' - ' . $quotes['text'];
 
 echo '</br><div>Hello from fucking docker</div></br>YEAH';
